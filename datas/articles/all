@@ -1,0 +1,38 @@
+[
+	{
+		"title": "SASS FOR WEB DESIGNERS-2",
+		"date": "2015-11-13",
+		"public": "true",
+		"layout": "post",
+		"tags": "sass",
+		"preview": "I’m dusting off this ol’ website to announce that, today, my fifth book has been published. It’s called Sass For Web Designers and has a familiar pink cover. The book is the 10th release from the wonderful folks at A Book Apart.;",
+		"id": "2015-11-13-b1"
+	},
+	{
+		"title": "CHINESE LANGUAGE TIPS FOR WEB DESIGN-2",
+		"date": "2015-01-10",
+		"tags": "sass,food",
+		"layout": "post",
+		"public": "true",
+		"preview": "While thinking about my career, it’s important to reflect on my current skills and interests to gain visibility into where I want to go.;",
+		"id": "2015-01-10-b2"
+	},
+	{
+		"title": "CHINESE LANGUAGE TIPS FOR WEB DESIGN",
+		"date": "2014-01-10",
+		"tags": "food,design",
+		"layout": "post",
+		"public": "true",
+		"preview": "While thinking about my career, it’s important to reflect on my current skills and interests to gain visibility into where I want to go.;",
+		"id": "2014-01-10-a3"
+	},
+	{
+		"title": "SASS FOR WEB DESIGNERS",
+		"date": "2013-11-13",
+		"public": "true",
+		"layout": "post",
+		"tags": "sass,design",
+		"preview": "I’m dusting off this ol’ website to announce that, today, my fifth book has been published. It’s called Sass For Web Designers and has a familiar pink cover. The book is the 10th release from the wonderful folks at A Book Apart.;",
+		"id": "2013-11-13-a1"
+	}
+]

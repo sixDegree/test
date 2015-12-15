@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SixDegree</title>
+    <link>http://sixdegree.github.io</link>
+    <updated>2015-12-15T08:25:02Z</updated>
+    <link rel="alternate" href="http://sixdegree.github.io"/>
+    <link rel="self" href="/atom.xml"/>
+</feed>
